@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@562;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+
+
+.form-control {
+    border: 1px solid #ced4da;
+    border-radius: 0;
+    padding: 0.6rem 0.75rem;
+}
+
+.btn {
+    padding: 0.5rem 0.75rem;
+    border-radius: 0;
+}
+
+.monForm {
+    width: 50%;
+    margin: 2rem auto;
+    border: 1px solid lightpink;
+}
+form {
+    margin: 1.5rem;
+
+}
+
+
+.titreForm {
+    padding: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: white;
+    background-color: lightpink;
+}
+
+.table {
+}
+th, td {
+    border: 1px solid #dee2e6;
+}
+
+
+.masquer {
+    display: none;
+}
+
+thead {
+    background-color: lightpink;
+}
+
+.form-group {
+    text-align: center;
+}
+
+
+
+
+nav{
+    background-color: lightpink;
+}
+
+.navbar-un{
+    display: flex;
+    flex-direction: row;
+}
+.navbar-deux{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-left: 70rem;
+}
+.btnun{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    padding-right: 5rem;
+}
+
+/*
+page accueil
+ */
+.acueille{
+    text-align: center;
+    font-size: 3rem;
+}
+
+/*
+page deconnexion
+ */
+
+
+/*
+page register
+ */
+.buttonlogin{
+    margin-left: 3rem;
+    padding-left: 35rem;
+}
+.he{
+    margin-left: 3rem;
+    padding-left: 35rem;
+}
+
+.val{
+    margin-left: 39.5rem;
+}
+.en{
+    margin-left: 8.5rem;
+}
+.co{
+
+    margin-left: 44rem;
+}
+.register{
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+/*
+page login
+ */
+
